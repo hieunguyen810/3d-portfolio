@@ -4,27 +4,29 @@ import {
   creator,
   web,
   javascript,
-  typescript,
   html,
   css,
-  reactjs,
-  redux,
-  tailwind,
   nodejs,
-  mongodb,
   git,
-  figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
   tma,
   viettel,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
+  profile,
+  thesis,
+  viet,
+  us,
+  japan,
+  java,
+  jenkins,
+  kali,
+  linux,
+  python,
+  tensorflow,
+  spring,
+  oracle,
+  mysql,
+  hcmut,
+  kanji,
 } from "../assets";
 
 export const navLinks = [
@@ -63,56 +65,71 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Python",
+    icon: python,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Jenkins",
+    icon: jenkins,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Linux",
+    icon: linux,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Tensowflow",
+    icon: tensorflow,
   },
   {
     name: "Node JS",
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Oracle",
+    icon: oracle,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "MySQL",
+    icon: mysql,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Docker",
+    icon: docker,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Java",
+    icon: java,
+  },
+  {
+    name:"Spring Boot",
+    icon: spring,
+  },
+  {
+    name: "Kali linux",
+    icon: kali,
+  },
+];
+
+const languages = [
+  {
+    name: "English",
+    icon: us,
+  },
+  {
+    name: "Vietnamese",
+    icon: viet,
+  },
+  {
+    name: "Japanese",
+    icon: japan,
   },
 ];
 
@@ -139,36 +156,21 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 2-2021 to 4-2022",
     points: [
-      "- Developing and maintaining a web application. Provide a patch for the application every 2 months, and create a new version for this one. (VoIP platforms)",
-      "- Build LDAP client, LDAP testing server and a Shell script for installation automatically",
+      "Developing and maintaining a web application. Provide a patch for the application every 2 months, and create a new version for this one. (VoIP platforms)",
+      "Build LDAP client, LDAP testing server and a Shell script for installation automatically",
+      "Install testing environment with VMware Vcloud",
     ],
   },
-];
-
-const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    title: "Student",
+    company_name: "Ho Chi Minh University of technology (BKU)",
+    icon: hcmut,
+    iconBg: "#E6DEDD",
+    date: "From 8-2017 to 10-2021",
+    points: [
+      "Electronics and Telecommunications",
+      "GPA: 7/10",
+    ],
   },
 ];
 
@@ -187,11 +189,11 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Latex",
+        name: "latex",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: thesis,
     source_code_link: "https://github.com/hieunguyen810/VLC_demodulation",
   },
   {
@@ -212,30 +214,30 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: kanji,
     source_code_link: "https://github.com/hieunguyen810/kanji_recognizer_linux",
   },
   {
-    name: "Trip Guide",
+    name: "Responsive resume",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A responsive resume written by HTML, CSS and javascript",
     tags: [
       {
-        name: "nextjs",
+        name: "CSS",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "HTML",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Javascript",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: profile,
+    source_code_link: "https://github.com/hieunguyen810/responsive-profile",
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects, languages};

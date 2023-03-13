@@ -9,28 +9,37 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import python from "./tech/python.png";
+import jenkins from "./tech/jenkins.png";
+import kali from "./tech/kali.png";
+import linux from "./tech/linux.jpg";
+import spring from "./tech/spring-boot.png";
+import tensorflow from "./tech/tensorflow.png"
+import oracle from "./tech/oracle.png";
+import mysql from "./tech/mysql.png";
+import java from "./tech/java.png"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+
 import viettel from "./company/viettel.png";
 import tma from "./company/tma.png";
+import hcmut from "./company/hcmut.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import viet from "./lang/viet.png";
+import us from "./lang/us.png";
+import japan from "./lang/japan.png"
+
+import thesis from "./thesis.png";
+import profile from "./profile.png";
+import kanji from "./kanji.png";
 
 export {
   logo,
@@ -43,24 +52,31 @@ export {
   close,
   css,
   docker,
-  figma,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   viettel,
   tma,
-  carrent,
-  jobit,
-  tripguide,
+  hcmut,
+  thesis,
+  profile,
+  viet,
+  us,
+  japan,
+  jenkins,
+  python,
+  kali,
+  linux,
+  tensorflow,
+  spring,
+  oracle,
+  mysql,
+  java,
+  kanji,
 };
