@@ -141,12 +141,12 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 4-2022 to present",
     points: [
-      "Collaborate with infrastructure team, network team, cybersecurity team, backend team, NOC to managing servers, connections, security, ensure service's availability, service’s performance.",
-      "Manage, maintain, install and deploy DMS applications in SIT, UAT, POC and Production environment",
-      "Building DevSecOps pipeline for Production environment",
-      "Research, design, and implement solutions for containerization, performance enhancements and monitoring.",
-      "Penetration testing for various web application projects. (SAST, DAST and manual test). Main responsibility for information security for VTS Southern branch (VPN, Personal Computer, standards, regulations, ...)",
+      "Collaborate with infrastructure team, network team, cybersecurity team, developer, NOC to managing servers, connections, security, ensure service's availability, service’s performance.",
+      "Manage, maintain, install and deploy DMS applications in SIT, UAT and Production environment",
       "Develop a backend API using Spring Boot, gRPC and MongoDB.",
+      "Research, design, and implement solutions for containerization (Docker), performance enhancements and monitoring (Prometheus, Grafana). ",
+      "Penetration testing for various web application projects. (SAST, DAST and manual test). Main responsibility for information security for VTS Southern branch (VPN, Personal Computer, standards, regulations, ...)",
+      "Accelerate deploying process by building DevSecOps pipeline with Jenkins, Apache Ant, Ansible, Gitlab, Fortify, Sonarqube, ..."
     ],
   },
   {
@@ -156,7 +156,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 2-2021 to 4-2022",
     points: [
-      "Developing and maintaining a web application. Provide a patch for the application every 2 months, and create a new version for this one. (VoIP platforms)",
+      "Developing and maintaining a web application. Provide a patch for the application every 2 months, and create a new version for this one. (VoIP platforms- US-based clients)",
       "Build LDAP client, LDAP testing server and a Shell script for installation automatically",
       "Install testing environment with VMware Vcloud",
     ],
@@ -220,7 +220,7 @@ const projects = [
   {
     name: "Responsive resume",
     description:
-      "A responsive resume written by HTML, CSS and javascript",
+      "A responsive, multiple languages resume written by HTML, CSS and javascript",
     tags: [
       {
         name: "CSS",

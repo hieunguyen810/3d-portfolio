@@ -122,25 +122,28 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send"}
           </button> */}
-
           <div>
-              <box-icon name='linkedin' type='logo' animation='tada' rotate='180' ></box-icon>
+              <box-icon name='phone' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
+              &nbsp; 0906987057
+          </div>
+          <div>
+              <box-icon name='linkedin' type='logo' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
               <a href="https://www.linkedin.com/in/hieunguyen810/" target="_blank">
               &nbsp; Linkedin
               </a>
           </div>
           <div>
-              <box-icon name='github' type='logo' animation='tada' rotate='180' ></box-icon>
+              <box-icon name='github' type='logo' animation='tada' rotate='180' size='md' color='blue'></box-icon>
               <a href="https://github.com/hieunguyen810" target="_blank">
               &nbsp; Github
               </a>
           </div>
           <div> 
-            <box-icon name='gmail' type='logo' animation='tada' rotate='180' ></box-icon> 
+            <box-icon name='gmail' type='logo' animation='tada' rotate='180' size='md' color='blue' ></box-icon> 
             &nbsp; trihieu08101999@gmail.com
           </div>
           <div> 
-            <box-icon name='paperclip'></box-icon> 
+            <box-icon name='paperclip' animation='tada' size='md' color='blue'></box-icon> 
             <a href="https://hieunguyen810.github.io/responsive-profile/" target="_blank">
             &nbsp; My resume
             </a>
