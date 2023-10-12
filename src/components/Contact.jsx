@@ -122,29 +122,29 @@ const Contact = () => {
           >
             {loading ? "Sending..." : "Send"}
           </button> */}
-          <div>
+          <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               <box-icon name='phone' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
               &nbsp; 0906987057
           </div>
-          <div>
-              <box-icon name='linkedin' type='logo' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
+          <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               <a href="https://www.linkedin.com/in/hieunguyen810/" target="_blank">
+              <box-icon name='linkedin' type='logo' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
               &nbsp; Linkedin
               </a>
           </div>
-          <div>
-              <box-icon name='github' type='logo' animation='tada' rotate='180' size='md' color='blue'></box-icon>
+          <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               <a href="https://github.com/hieunguyen810" target="_blank">
+              <box-icon name='github' type='logo' animation='tada' rotate='180' size='md' color='blue'></box-icon>
               &nbsp; Github
               </a>
           </div>
-          <div> 
+          <div class="text-xl bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text"> 
             <box-icon name='gmail' type='logo' animation='tada' rotate='180' size='md' color='blue' ></box-icon> 
             &nbsp; trihieu08101999@gmail.com
           </div>
-          <div> 
-            <box-icon name='paperclip' animation='tada' size='md' color='blue'></box-icon> 
+          <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">  
             <a href="https://hieunguyen810.github.io/responsive-profile/" target="_blank">
+            <box-icon name='paperclip' animation='tada' size='md' color='blue'></box-icon>
             &nbsp; My resume
             </a>
           </div>

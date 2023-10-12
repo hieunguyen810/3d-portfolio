@@ -47,9 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      A software engineer with two years of experience in developing, deploying, maintaining,
-      and securing the web application. Strong background in networking and machine learning, 
-      hands-on experience in web application backend and system engineering, and interest in cybersecurity.
+      Passionate DevSecOps engineer with almost 3 years of experience in developing, deploying, maintaining, 
+      and securing the application. Advanced knowledge in Operation system and Networking. 
+      Skilled in backend development and cybersecurity. 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

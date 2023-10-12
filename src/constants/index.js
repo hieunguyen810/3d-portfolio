@@ -141,13 +141,14 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 4-2022 to present",
     points: [
-      "Collaborate with infrastructure team, network team, cybersecurity team, developer, NOC to managing servers, connections, security, ensure service's availability, service’s performance.",
-      "Manage, maintain, install and deploy DMS applications in SIT, UAT and Production environment",
-      "Develop a backend API using Spring Boot, gRPC and MongoDB.",
-      "Research, design, and implement solutions for containerization (Docker), performance enhancements and monitoring (Prometheus, Grafana). ",
-      "Penetration testing for various web application projects. (SAST, DAST and manual test). Main responsibility for information security for VTS Southern branch (VPN, Personal Computer, standards, regulations, ...)",
+      "Leading a small team with four members",
+      "Collaborate with infrastructure team, network team, cybersecurity team, developer, and NOC to manage servers, connections, and security, ensure service availability 24/7, and service performance.",
+      "Manage, maintain, install, and deploy over 20 applications in SIT, UAT and Production environment",
+      "Create a backend API using Spring Boot, gRPC, and MongoDB",
+      "Research, design, and implement solutions for containerization, performance enhancements, and monitoring.",
+      "Penetration testing for various web application projects. (SAST, DAST, and manual test). Primary responsibility for information security for the VTS Southern branch (VPN, Personal Computer, standards, regulations, etc.)",
       "Accelerate deploying process by building DevSecOps pipeline with Jenkins, Apache Ant, Ansible, Gitlab, Fortify, Sonarqube, ..."
-    ],
+    ]
   },
   {
     title: "Software Engineer",
@@ -156,9 +157,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 2-2021 to 4-2022",
     points: [
-      "Developing and maintaining a web application. Provide a patch for the application every 2 months, and create a new version for this one. (VoIP platforms- US-based clients)",
-      "Build LDAP client, LDAP testing server and a Shell script for installation automatically",
-      "Install testing environment with VMware Vcloud",
+      "Outsourcing for American companies, with customers being many of the world's leading telecommunications companies",
+      "Develop new versions and provide patches on interface, performance, security,... for the application",
+      "Install servers, software, write shell scripts to automatically install, configure,..."
     ],
   },
   {
