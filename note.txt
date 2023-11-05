@@ -1,0 +1,7 @@
+#Requirement: nodejs 16
+
+npm cache clean --force
+npm i --save-dev @types/node
+npm install
+npm run build
+npm run deploy
