@@ -141,13 +141,13 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 4-2022 to present",
     points: [
-      "Leading a small team with four members",
-      "Collaborate with infrastructure team, network team, cybersecurity team, developer, and NOC to manage servers, connections, and security, ensure service availability 24/7, and service performance.",
-      "Manage, maintain, install, and deploy over 20 applications in SIT, UAT and Production environment",
-      "Create a backend API using Spring Boot, gRPC, and MongoDB",
-      "Research, design, and implement solutions for containerization, performance enhancements, and monitoring.",
-      "Penetration testing for various web application projects. (SAST, DAST, and manual test). Primary responsibility for information security for the VTS Southern branch (VPN, Personal Computer, standards, regulations, etc.)",
-      "Accelerate deploying process by building DevSecOps pipeline with Jenkins, Apache Ant, Ansible, Gitlab, Fortify, Sonarqube, ..."
+      "Led a four-person team to successfully manage server infrastructure, network connectivity, and application security for 24/7 service availability and optimal performance.",
+      "Fostered a collaborative environment by coordinating effectively with infrastructure, network, cybersecurity, development, and NOC teams.",
+      "Managed, maintained, and deployed over 20 applications across SIT, UAT, and production environments, ensuring smooth operation and swift incident resolution.",
+      "Established automated monitoring systems for proactive issue identification and rapid remediation.",
+      "Owned information security for the VTS Southern branch, encompassing VPN configuration, PC security, and adherence to standards and regulations.",
+      "Performed comprehensive penetration testing (SAST, DAST, and manual) for web applications, contributing to a robust security posture.",
+      "Spearheaded the development and implementation of a DevSecOps pipeline utilizing Jenkins, Apache Ant, Ansible, GitLab, Fortify, and SonarQube for accelerated delivery with integrated security."
     ]
   },
   {
@@ -157,9 +157,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 2-2021 to 4-2022",
     points: [
-      "Outsourcing for American companies, with customers being many of the world's leading telecommunications companies",
-      "Develop new versions and provide patches on interface, performance, security,... for the application",
-      "Install servers, software, write shell scripts to automatically install, configure,..."
+      "Provided outsourced software development services to leading American companies within the telecommunications industry.",
+      "Managed the software lifecycle for applications,including developing new versions, implementing feature enhancements, and delivering timely security patches.",
+      "Mastered server and software installation, including scripting automated processes for efficient configuration and deployment."
     ],
   },
   {
