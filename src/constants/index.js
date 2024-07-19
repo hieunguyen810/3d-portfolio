@@ -11,6 +11,7 @@ import {
   docker,
   tma,
   viettel,
+  ocb,
   profile,
   thesis,
   viet,
@@ -135,11 +136,20 @@ const languages = [
 
 const experiences = [
   {
+    title: "Senior DevOps Engineer",
+    company_name: "Orient Commercial Joint Stock Bank",
+    icon: ocb,
+    iconBg: "#E6DEDD",
+    date: "From 06-2024 to present",
+    points: [
+    ]
+  },
+  {
     title: "DevSecOps Engineer",
     company_name: "Viettel Solutions",
     icon: viettel,
     iconBg: "#E6DEDD",
-    date: "From 4-2022 to present",
+    date: "From 04-2022 to 05-2024",
     points: [
       "Led a four-person team to successfully manage server infrastructure, network connectivity, and application security for 24/7 service availability and optimal performance.",
       "Fostered a collaborative environment by coordinating effectively with infrastructure, network, cybersecurity, development, and NOC teams.",

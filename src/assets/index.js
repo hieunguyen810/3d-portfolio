@@ -28,7 +28,7 @@ import oracle from "./tech/oracle.png";
 import mysql from "./tech/mysql.png";
 import java from "./tech/java.png"
 
-
+import ocb from "./company/ocb.png";
 import viettel from "./company/viettel.png";
 import tma from "./company/tma.png";
 import hcmut from "./company/hcmut.png"
@@ -61,6 +61,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  ocb,
   viettel,
   tma,
   hcmut,

@@ -124,7 +124,7 @@ const Contact = () => {
           </button> */}
           <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               <box-icon name='phone' animation='tada' rotate='180' size='md' color='blue' ></box-icon>
-              &nbsp; 0906987057
+              &nbsp; 0706987057
           </div>
           <div class="text-xl  bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">
               <a href="https://www.linkedin.com/in/hieunguyen810/" target="_blank">
