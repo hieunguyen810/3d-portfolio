@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Highly motivated DevSecOps Engineer with 3 years of experience in developing, deploying, maintaining, and securing the application. 
+        Highly motivated DevSecOps Engineer with 4 years of experience in developing, deploying, maintaining, and securing the application. 
         Advanced knowledge in Operation systems and Networking, coupled with in-depth knowledge of backend development and cybersecurity.
       </motion.p>
 

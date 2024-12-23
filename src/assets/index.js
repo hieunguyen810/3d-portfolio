@@ -26,7 +26,9 @@ import spring from "./tech/spring-boot.png";
 import tensorflow from "./tech/tensorflow.png"
 import oracle from "./tech/oracle.png";
 import mysql from "./tech/mysql.png";
-import java from "./tech/java.png"
+import java from "./tech/java.png";
+import argocd from "./tech/argocd.png";
+import kubernetes from "./tech/kubernetes.png";
 
 import ocb from "./company/ocb.png";
 import viettel from "./company/viettel.png";
@@ -80,4 +82,6 @@ export {
   mysql,
   java,
   kanji,
+  kubernetes,
+  argocd,
 };

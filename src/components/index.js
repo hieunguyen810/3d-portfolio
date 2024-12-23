@@ -26,5 +26,5 @@ export {
   ComputersCanvas, 
   StarsCanvas,
   CubeCanvas,
-  Languages
+  Languages,
 };
