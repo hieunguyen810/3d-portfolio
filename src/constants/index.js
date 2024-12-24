@@ -4,8 +4,6 @@ import {
   creator,
   web,
   javascript,
-  html,
-  css,
   nodejs,
   git,
   docker,
@@ -28,6 +26,8 @@ import {
   mysql,
   hcmut,
   kanji,
+  kubernetes, 
+  argocd, 
 } from "../assets";
 
 export const navLinks = [
@@ -38,6 +38,10 @@ export const navLinks = [
   {
     id: "work",
     title: "Work",
+  },
+  {
+    id: "tech",
+    title: "Tech",
   },
   {
     id: "contact",
@@ -82,12 +86,12 @@ const technologies = [
     icon: linux,
   },
   {
-    name: "Tensowflow",
-    icon: tensorflow,
+    name: "Kubernetes",
+    icon: kubernetes,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Argocd",
+    icon: argocd,
   },
   {
     name: "Oracle",
@@ -136,12 +140,16 @@ const languages = [
 
 const experiences = [
   {
-    title: "Senior DevOps Engineer",
+    title: "DevOps Engineer",
     company_name: "Orient Commercial Joint Stock Bank",
     icon: ocb,
     iconBg: "#E6DEDD",
     date: "From 06-2024 to present",
     points: [
+      "Managed and maintained the core card firmware. Deployed and configured Kubernetes clusters, implemented robust monitoring systems, streamlined infrastructure provisioning and incident response with ChatOps integration and GitOps pipelines", 
+      "Developed efficient PowerShell scripts to eliminate the need for 100% of manual daily tasks, improving operational efficiency and reducing manual errors.", 
+      "Maintained Way4 Card Issuing platform, collaborated with major payment networks (Mastercard, Visa, JCB, Napas) to enhance system functionality, upgrade infrustructure and ensure PCI-DSS compliances",
+      "Provided technical assistance to payment accountants, customer issue resolution, ..."
     ]
   },
   {

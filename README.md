@@ -8,6 +8,10 @@ npm cache clean --force
 npm i --save-dev @types/node
 npm install
 npm run build
-npm run deploy
 npm run dev
+```
+
+### Deploy:
+``` 
+npm run deploy 
 ```
