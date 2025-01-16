@@ -146,10 +146,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "From 06-2024 to present",
     points: [
-      "Managed and maintained the core card firmware. Deployed and configured Kubernetes clusters, implemented robust monitoring systems, streamlined infrastructure provisioning and incident response with ChatOps integration and GitOps pipelines", 
-      "Developed efficient PowerShell scripts to eliminate the need for 100% of manual daily tasks, improving operational efficiency and reducing manual errors.", 
-      "Maintained Way4 Card Issuing platform, collaborated with major payment networks (Mastercard, Visa, JCB, Napas) to enhance system functionality, upgrade infrustructure and ensure PCI-DSS compliances",
-      "Provided technical assistance to payment accountants, customer issue resolution, ..."
+      "Managed and maintained the Core Card firmware production environment. Deployed and configured Kubernetes clusters, implemented robust monitoring systems, streamlined infrastructure provisioning and incident response with ChatOps integration and GitOps pipelines.", 
+      "Implement robust observation system to fully monitor infrastructure, payment transaction with Grafana Stack, custom script to expose metrics. Leading to completely remove disruption, reduce transaction timeout rate, identifying potential issues quicker.", 
+      "Developed efficient PowerShell scripts to eliminate the need for 100% of manual daily tasks, improving operational efficiency and reducing manual errors.",
+      "Maintained Way4 Card Issuing platform, collaborated with major payment networks (Mastercard, Visa, JCB, Napas) to enhance system functionality, upgrade infrastructure and ensure PCI-DSS compliances."
     ]
   },
   {
@@ -176,8 +176,8 @@ const experiences = [
     date: "From 2-2021 to 4-2022",
     points: [
       "Provided outsourced software development services to leading American companies within the telecommunications industry.",
-      "Managed the software lifecycle for applications,including developing new versions, implementing feature enhancements, and delivering timely security patches.",
-      "Mastered server and software installation, including scripting automated processes for efficient configuration and deployment."
+      "Managed the software lifecycle for the VoIP applications written in C++ and Java, including developing new versions, implementing feature enhancements, and delivering timely security patches.",
+      "Demonstrated expertise in server installation and configuration within VMware vCloud environments, develop authentication function via LDAP, including scripting automated processes for efficient configuration and deployment."
     ],
   },
   {
