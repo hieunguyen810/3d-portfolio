@@ -13,7 +13,6 @@ npm run deploy
 
 
 # Update for 2025
-- Update phone number
 - Add OCB experience 
 - Add README.md
 - Change background
