@@ -5,7 +5,7 @@ import {
   web,
   javascript,
   nodejs,
-  git,
+  aws,
   docker,
   tma,
   viettel,
@@ -102,8 +102,8 @@ const technologies = [
     icon: mysql,
   },
   {
-    name: "Git",
-    icon: git,
+    name: "AWS",
+    icon: aws,
   },
   {
     name: "Docker",
