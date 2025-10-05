@@ -25,7 +25,7 @@ import {
   oracle,
   mysql,
   hcmut,
-  kanji,
+  payment,
   kubernetes, 
   argocd, 
 } from "../assets";
@@ -216,25 +216,25 @@ const projects = [
     source_code_link: "https://github.com/hieunguyen810/VLC_demodulation",
   },
   {
-    name: "Kanji recognition",
+    name: "Payment system simulator",
     description:
-      "This is linux application uses for translate Japanese Kanji to English and Vietnamese",
+      "A payment system demo project with common module: iso8583-server, iso-8583-client, console, authorize service, transaction simulator.",
     tags: [
       {
-        name: "python",
+        name: "springboot",
         color: "blue-text-gradient",
       },
       {
-        name: "opencv",
+        name: "iso8583",
         color: "green-text-gradient",
       },
       {
-        name: "sklearn",
+        name: "react",
         color: "pink-text-gradient",
       },
     ],
-    image: kanji,
-    source_code_link: "https://github.com/hieunguyen810/kanji_recognizer_linux",
+    image: payment,
+    source_code_link: "https://github.com/hieunguyen810/iso8583-payment-system-simulator",
   },
   {
     name: "Responsive resume",

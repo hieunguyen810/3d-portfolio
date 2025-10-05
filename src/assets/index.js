@@ -41,7 +41,7 @@ import japan from "./lang/japan.png"
 
 import thesis from "./thesis.png";
 import profile from "./profile.png";
-import kanji from "./kanji.png";
+import payment from "./payment.png";
 
 export {
   logo,
@@ -81,7 +81,7 @@ export {
   oracle,
   mysql,
   java,
-  kanji,
+  payment,
   kubernetes,
   argocd,
 };
