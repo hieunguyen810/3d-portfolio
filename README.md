@@ -15,3 +15,8 @@ npm run dev
 ``` 
 npm run deploy 
 ```
+
+### Update:
+```
+npm update --force
+```
